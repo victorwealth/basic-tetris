@@ -1,0 +1,16 @@
+auto-indent
+atom-ternjs
+file-icons
+language-ejs
+language-babel
+linter
+linter-erb
+linter-csslint
+linter-eslint
+linter-js-yaml
+
+/*** to select color collages**/
+coolor.io
+
+/* code editor */
+playcode.io
